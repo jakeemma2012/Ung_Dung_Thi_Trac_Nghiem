@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jaki\\Desktop\\Exercise\\VSCODE_2022\\DO_AN_CUOI_KI_LTWINFORM\\Ung_Dung_Thi_Trac_Nghiem\\App_Thi_Trac_Nghiem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7780B11A-5268-4C15-AB8E-01590FD7D75B}|App_Thi_Trac_Nghiem\\App_Thi_Trac_Nghiem_GUI.csproj|c:\\users\\jaki\\desktop\\exercise\\vscode_2022\\do_an_cuoi_ki_ltwinform\\ung_dung_thi_trac_nghiem\\app_thi_trac_nghiem\\app_thi_trac_nghiem\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7780B11A-5268-4C15-AB8E-01590FD7D75B}|App_Thi_Trac_Nghiem\\App_Thi_Trac_Nghiem_GUI.csproj|solutionrelative:app_thi_trac_nghiem\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7780B11A-5268-4C15-AB8E-01590FD7D75B}|App_Thi_Trac_Nghiem\\App_Thi_Trac_Nghiem_GUI.csproj|c:\\users\\jaki\\desktop\\exercise\\vscode_2022\\do_an_cuoi_ki_ltwinform\\ung_dung_thi_trac_nghiem\\app_thi_trac_nghiem\\app_thi_trac_nghiem\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7780B11A-5268-4C15-AB8E-01590FD7D75B}|App_Thi_Trac_Nghiem\\App_Thi_Trac_Nghiem_GUI.csproj|solutionrelative:app_thi_trac_nghiem\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7780B11A-5268-4C15-AB8E-01590FD7D75B}|App_Thi_Trac_Nghiem\\App_Thi_Trac_Nghiem_GUI.csproj|c:\\users\\jaki\\desktop\\exercise\\vscode_2022\\do_an_cuoi_ki_ltwinform\\ung_dung_thi_trac_nghiem\\app_thi_trac_nghiem\\app_thi_trac_nghiem\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7780B11A-5268-4C15-AB8E-01590FD7D75B}|App_Thi_Trac_Nghiem\\App_Thi_Trac_Nghiem_GUI.csproj|solutionrelative:app_thi_trac_nghiem\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7780B11A-5268-4C15-AB8E-01590FD7D75B}|App_Thi_Trac_Nghiem\\App_Thi_Trac_Nghiem_GUI.csproj|c:\\users\\jaki\\desktop\\exercise\\vscode_2022\\do_an_cuoi_ki_ltwinform\\ung_dung_thi_trac_nghiem\\app_thi_trac_nghiem\\app_thi_trac_nghiem\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7780B11A-5268-4C15-AB8E-01590FD7D75B}|App_Thi_Trac_Nghiem\\App_Thi_Trac_Nghiem_GUI.csproj|solutionrelative:app_thi_trac_nghiem\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Jaki\\Desktop\\Exercise\\VSCODE_2022\\DO_AN_CUOI_KI_LTWINFORM\\Ung_Dung_Thi_Trac_Nghiem\\App_Thi_Trac_Nghiem\\App_Thi_Trac_Nghiem\\frmLogin.cs",
+              "RelativeDocumentMoniker": "App_Thi_Trac_Nghiem\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Jaki\\Desktop\\Exercise\\VSCODE_2022\\DO_AN_CUOI_KI_LTWINFORM\\Ung_Dung_Thi_Trac_Nghiem\\App_Thi_Trac_Nghiem\\App_Thi_Trac_Nghiem\\frmLogin.cs",
+              "RelativeToolTip": "App_Thi_Trac_Nghiem\\frmLogin.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAArwCcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:12:38.605Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmRegister.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jaki\\Desktop\\Exercise\\VSCODE_2022\\DO_AN_CUOI_KI_LTWINFORM\\Ung_Dung_Thi_Trac_Nghiem\\App_Thi_Trac_Nghiem\\App_Thi_Trac_Nghiem\\frmRegister.cs",
+              "RelativeDocumentMoniker": "App_Thi_Trac_Nghiem\\frmRegister.cs",
+              "ToolTip": "C:\\Users\\Jaki\\Desktop\\Exercise\\VSCODE_2022\\DO_AN_CUOI_KI_LTWINFORM\\Ung_Dung_Thi_Trac_Nghiem\\App_Thi_Trac_Nghiem\\App_Thi_Trac_Nghiem\\frmRegister.cs [Design]*",
+              "RelativeToolTip": "App_Thi_Trac_Nghiem\\frmRegister.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:54:15.405Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jaki\\Desktop\\Exercise\\VSCODE_2022\\DO_AN_CUOI_KI_LTWINFORM\\Ung_Dung_Thi_Trac_Nghiem\\App_Thi_Trac_Nghiem\\App_Thi_Trac_Nghiem\\frmLogin.cs",
+              "RelativeDocumentMoniker": "App_Thi_Trac_Nghiem\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Jaki\\Desktop\\Exercise\\VSCODE_2022\\DO_AN_CUOI_KI_LTWINFORM\\Ung_Dung_Thi_Trac_Nghiem\\App_Thi_Trac_Nghiem\\App_Thi_Trac_Nghiem\\frmLogin.cs [Design]",
+              "RelativeToolTip": "App_Thi_Trac_Nghiem\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:07:53.546Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmRegister.cs",
+              "DocumentMoniker": "C:\\Users\\Jaki\\Desktop\\Exercise\\VSCODE_2022\\DO_AN_CUOI_KI_LTWINFORM\\Ung_Dung_Thi_Trac_Nghiem\\App_Thi_Trac_Nghiem\\App_Thi_Trac_Nghiem\\frmRegister.cs",
+              "RelativeDocumentMoniker": "App_Thi_Trac_Nghiem\\frmRegister.cs",
+              "ToolTip": "C:\\Users\\Jaki\\Desktop\\Exercise\\VSCODE_2022\\DO_AN_CUOI_KI_LTWINFORM\\Ung_Dung_Thi_Trac_Nghiem\\App_Thi_Trac_Nghiem\\App_Thi_Trac_Nghiem\\frmRegister.cs*",
+              "RelativeToolTip": "App_Thi_Trac_Nghiem\\frmRegister.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwCAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:07:52.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
