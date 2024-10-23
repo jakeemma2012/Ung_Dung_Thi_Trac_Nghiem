@@ -63,9 +63,10 @@
             // 
             // imgTrangChu
             // 
-            this.imgTrangChu.Location = new System.Drawing.Point(349, 0);
+            this.imgTrangChu.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.imgTrangChu.Location = new System.Drawing.Point(358, 0);
             this.imgTrangChu.Name = "imgTrangChu";
-            this.imgTrangChu.Size = new System.Drawing.Size(579, 536);
+            this.imgTrangChu.Size = new System.Drawing.Size(492, 536);
             this.imgTrangChu.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.imgTrangChu.TabIndex = 3;
             this.imgTrangChu.TabStop = false;

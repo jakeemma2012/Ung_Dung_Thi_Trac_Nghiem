@@ -43,6 +43,7 @@
             this.labelControl3 = new DevExpress.XtraEditors.LabelControl();
             this.labelControl2 = new DevExpress.XtraEditors.LabelControl();
             this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
+            this.label3 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.imgTrangChu)).BeginInit();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -62,9 +63,10 @@
             // 
             // imgTrangChu
             // 
-            this.imgTrangChu.Location = new System.Drawing.Point(350, 0);
+            this.imgTrangChu.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.imgTrangChu.Location = new System.Drawing.Point(358, 0);
             this.imgTrangChu.Name = "imgTrangChu";
-            this.imgTrangChu.Size = new System.Drawing.Size(558, 536);
+            this.imgTrangChu.Size = new System.Drawing.Size(492, 536);
             this.imgTrangChu.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.imgTrangChu.TabIndex = 6;
             this.imgTrangChu.TabStop = false;
@@ -72,6 +74,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.SystemColors.Control;
+            this.panel1.Controls.Add(this.label3);
             this.panel1.Controls.Add(this.btHidePass);
             this.panel1.Controls.Add(this.labell);
             this.panel1.Controls.Add(this.label4);
@@ -162,6 +165,9 @@
             // btSigup
             // 
             this.btSigup.BackColor = System.Drawing.SystemColors.HotTrack;
+            this.btSigup.FlatAppearance.BorderSize = 0;
+            this.btSigup.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.btSigup.FlatAppearance.MouseOverBackColor = System.Drawing.Color.RoyalBlue;
             this.btSigup.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btSigup.Location = new System.Drawing.Point(26, 389);
             this.btSigup.Name = "btSigup";
@@ -218,6 +224,17 @@
             this.labelControl1.TabIndex = 0;
             this.labelControl1.Text = "Welcome to Quiz Application";
             // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.BackColor = System.Drawing.SystemColors.Control;
+            this.label3.ForeColor = System.Drawing.Color.Black;
+            this.label3.Location = new System.Drawing.Point(32, 292);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(73, 16);
+            this.label3.TabIndex = 6;
+            this.label3.Text = "Password :";
+            // 
             // frmRegister
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -255,5 +272,6 @@
         private DevExpress.XtraEditors.LabelControl labelControl3;
         private DevExpress.XtraEditors.LabelControl labelControl2;
         private DevExpress.XtraEditors.LabelControl labelControl1;
+        private System.Windows.Forms.Label label3;
     }
 }
